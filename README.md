@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0287-find-the-duplicate-number) |
