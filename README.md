@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
