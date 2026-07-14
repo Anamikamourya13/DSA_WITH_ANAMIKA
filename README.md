@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0986-interval-list-intersections) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
