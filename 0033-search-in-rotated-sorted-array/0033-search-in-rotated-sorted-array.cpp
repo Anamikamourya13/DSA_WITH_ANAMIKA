@@ -13,22 +13,33 @@ public:
                 return guess;
 
             // guess left sorted part me hai
-            if (nums[guess] >= nums[low]) {
+            if (nums[guess] >= nums[n-1]) {
 
-                if (target >= nums[low] && target < nums[guess]) {
-                    high = guess - 1;
-                } else {
-                    low = guess + 1;
+                if (nums[guess]<target) {
+                    low = guess+1;
+                } else 
+                {
+                    if(nums[0]>target)
+                    low = guess+1;
+                    else
+                    high=guess-1;
+                
                 }
 
             }
             // guess right sorted part me hai
             else {
 
-                if (target > nums[guess] && target <= nums[high]) {
-                    low = guess + 1;
-                } else {
+                if (nums[guess]>target)
+                 {
+                    high= guess -1;
+                }
+                else
+                 {  
+                    if(nums[n-1]<target)
                     high = guess - 1;
+                    else
+                    low=guess+1;
                 }
 
             }
