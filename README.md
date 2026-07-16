@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0061-rotate-list) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0206-reverse-linked-list) |
