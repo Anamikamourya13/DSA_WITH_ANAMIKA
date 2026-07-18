@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0525-contiguous-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Hash Table
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0424-longest-repeating-character-replacement) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
 ## Recursion
@@ -197,9 +202,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
