@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0287-find-the-duplicate-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0876-middle-of-the-linked-list) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
