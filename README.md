@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1920-build-array-from-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -219,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
