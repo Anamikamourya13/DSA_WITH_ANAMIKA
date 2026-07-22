@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
