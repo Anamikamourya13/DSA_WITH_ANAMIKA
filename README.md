@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0053-maximum-subarray) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0141-linked-list-cycle) |
