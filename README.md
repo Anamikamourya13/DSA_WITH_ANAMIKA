@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0088-merge-sorted-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0059-spiral-matrix-ii) |
 | [1920-build-array-from-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
