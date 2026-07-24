@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0142-linked-list-cycle-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
