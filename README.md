@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1991-find-the-middle-index-in-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Recursion
 |  |
 | ------- |
