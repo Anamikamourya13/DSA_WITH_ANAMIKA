@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0485-max-consecutive-ones) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0713-subarray-product-less-than-k) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1929-concatenation-of-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
