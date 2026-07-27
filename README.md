@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0303-range-sum-query-immutable) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0560-subarray-sum-equals-k) |
