@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -379,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
