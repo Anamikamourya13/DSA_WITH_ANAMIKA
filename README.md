@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
