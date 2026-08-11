@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0409-longest-palindrome) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0509-fibonacci-number) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
