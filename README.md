@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -422,4 +423,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
