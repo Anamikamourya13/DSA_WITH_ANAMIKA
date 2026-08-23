@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0881-boats-to-save-people) |
+| [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
 ## Sweep Line
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
 ## Interactive
 |  |
 | ------- |
