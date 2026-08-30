@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0713-subarray-product-less-than-k) |
+| [0837-new-21-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0837-new-21-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0837-new-21-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0509-fibonacci-number) |
+| [0837-new-21-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -582,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-rle-iterator](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0900-rle-iterator) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
