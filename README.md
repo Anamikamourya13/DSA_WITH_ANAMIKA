@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0088-merge-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0131-palindrome-partitioning) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -618,4 +621,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
