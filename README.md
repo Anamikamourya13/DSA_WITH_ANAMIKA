@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
+| [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
@@ -588,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -610,4 +617,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
