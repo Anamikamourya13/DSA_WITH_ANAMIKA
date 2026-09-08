@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0202-happy-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0226-invert-binary-tree) |
@@ -666,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
