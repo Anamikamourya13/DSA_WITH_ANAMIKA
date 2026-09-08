@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0837-new-21-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Iterator
 |  |
@@ -634,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
