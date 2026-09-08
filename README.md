@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0877-stone-game) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1004-max-consecutive-ones-iii) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -566,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -608,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -631,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 ## Z Algorithm
 |  |
@@ -648,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0005-longest-palindromic-substring) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
