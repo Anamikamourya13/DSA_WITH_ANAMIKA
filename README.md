@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0525-contiguous-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0837-new-21-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0837-new-21-game) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -684,4 +687,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
