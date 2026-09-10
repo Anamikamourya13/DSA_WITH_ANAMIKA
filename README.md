@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0219-contains-duplicate-ii) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
