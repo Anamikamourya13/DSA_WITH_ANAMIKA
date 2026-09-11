@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2090-k-radius-subarray-averages) |
 | [2574-left-and-right-sum-differences](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2574-left-and-right-sum-differences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
