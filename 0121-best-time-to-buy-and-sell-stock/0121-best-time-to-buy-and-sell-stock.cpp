@@ -1,19 +1,36 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
 
-        int minPrice = prices[0];
-        int maxProfit = 0;
+    int fun(vector<int>& prices, int i, int minPrice,
+            vector<int>& dp)
+    {
+        // Base case
+        if(i == prices.size())
+            return 0;
 
-        for (int i = 1; i < prices.size(); i++) {
+        // Already calculated
+        if(dp[i] != -1)
+            return dp[i];
 
-            minPrice = min(minPrice, prices[i]);
+        // Minimum buying price
+        minPrice = min(minPrice, prices[i]);
 
-            int profit = prices[i] - minPrice;
+        // Aaj sell karne ka profit
+        int profit = prices[i] - minPrice;
 
-            maxProfit = max(maxProfit, profit);
-        }
+        // Aage ke days check karo
+        int skip = fun(prices, i+1, minPrice, dp);
 
-        return maxProfit;
+        // Maximum answer store karo
+        return dp[i] = max(profit, skip);
+    }
+
+    int maxProfit(vector<int>& prices)
+    {
+        int n = prices.size();
+
+        vector<int> dp(n, -1);
+
+        return fun(prices, 0, prices[0], dp);
     }
 };
