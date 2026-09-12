@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0056-merge-intervals) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0494-target-sum) |
 ## Bracket Sequences
@@ -712,4 +714,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1143-longest-common-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
