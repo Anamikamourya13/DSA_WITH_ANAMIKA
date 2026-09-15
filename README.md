@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0198-house-robber) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0383-ransom-note) |
 | [0900-rle-iterator](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0900-rle-iterator) |
@@ -730,4 +735,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1114-print-in-order) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
