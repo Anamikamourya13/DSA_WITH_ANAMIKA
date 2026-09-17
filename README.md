@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0897-increasing-order-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0938-range-sum-of-bst) |
 ## DP on Trees
 |  |
 | ------- |
