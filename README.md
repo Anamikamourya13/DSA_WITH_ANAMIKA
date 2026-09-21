@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0986-interval-list-intersections) |
+| [1768-merge-strings-alternately](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3517-smallest-palindromic-rearrangement-i) |
