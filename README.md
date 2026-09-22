@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0739-daily-temperatures) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0705-design-hashset) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0705-design-hashset) |
 | [0900-rle-iterator](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0900-rle-iterator) |
 ## Counting Sort
 |  |
@@ -659,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0705-design-hashset) |
 ## Binary Lifting
 |  |
 | ------- |
