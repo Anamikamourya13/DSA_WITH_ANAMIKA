@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0704-binary-search) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
 ## Sweep Line
