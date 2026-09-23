@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1652-defuse-the-bomb) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0986-interval-list-intersections) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3718-smallest-missing-multiple-of-k) |
