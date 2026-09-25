@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2090-k-radius-subarray-averages) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1227-airplane-seat-assignment-probability) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
