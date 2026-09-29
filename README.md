@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1207-unique-number-of-occurrences](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
