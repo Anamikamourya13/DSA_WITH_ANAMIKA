@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
+| [2390-removing-stars-from-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
