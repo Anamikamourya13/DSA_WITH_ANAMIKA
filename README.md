@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0443-string-compression) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0735-asteroid-collision) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
