@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0872-leaf-similar-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
