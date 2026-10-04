@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0994-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1971-find-if-path-exists-in-graph) |
