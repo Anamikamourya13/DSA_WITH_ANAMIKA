@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting
 |  |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0705-design-hashset) |
 | [0900-rle-iterator](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0900-rle-iterator) |
+| [0901-online-stock-span](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0901-online-stock-span) |
 ## Counting Sort
 |  |
 | ------- |
@@ -859,4 +862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
