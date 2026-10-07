@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0649-dota2-senate) |
 | [0881-boats-to-save-people](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
 ## Sweep Line
