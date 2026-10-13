@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1268-search-suggestions-system](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0881-boats-to-save-people) |
+| [1268-search-suggestions-system](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1268-search-suggestions-system](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1768-merge-strings-alternately) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1268-search-suggestions-system](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -556,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0014-longest-common-prefix) |
+| [1268-search-suggestions-system](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1268-search-suggestions-system) |
 ## Game Theory
 |  |
 | ------- |
