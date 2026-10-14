@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0349-intersection-of-two-arrays) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0168-excel-sheet-column-title) |
+| [0208-implement-trie-prefix-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0705-design-hashset) |
 | [0900-rle-iterator](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0900-rle-iterator) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1268-search-suggestions-system) |
 ## Game Theory
 |  |
