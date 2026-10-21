@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0790-domino-and-tromino-tiling](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0790-domino-and-tromino-tiling) |
 | [0837-new-21-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0918-maximum-sum-circular-subarray) |
