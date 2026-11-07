@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1929-concatenation-of-array) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1882-process-tasks-using-servers) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
