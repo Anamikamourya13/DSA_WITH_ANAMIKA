@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0061-rotate-list) |
