@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
 | [2542-maximum-subsequence-score](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2542-maximum-subsequence-score) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sweep Line
 |  |
 | ------- |
