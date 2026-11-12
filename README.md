@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2542-maximum-subsequence-score) |
 | [2574-left-and-right-sum-differences](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2574-left-and-right-sum-differences) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3731-find-missing-elements) |
