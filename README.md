@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1631-path-with-minimum-effort) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3934-smallest-unique-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0705-design-hashset) |
+| [3934-smallest-unique-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3934-smallest-unique-subarray) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -991,4 +995,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0335-self-crossing) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
