@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0219-contains-duplicate-ii) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0392-is-subsequence) |
