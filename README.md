@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1004-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1207-unique-number-of-occurrences) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0986-interval-list-intersections) |
+| [1089-duplicate-zeros](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1768-merge-strings-alternately) |
