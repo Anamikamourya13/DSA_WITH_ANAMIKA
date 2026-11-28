@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2409-count-days-spent-together) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/1927-sum-game) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/2542-maximum-subsequence-score) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Anamikamourya13/DSA_WITH_ANAMIKA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sweep Line
